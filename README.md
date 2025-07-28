@@ -32,6 +32,7 @@ A lightweight Discord bot that transforms text into speech using Google TTS! Jus
 
 The bot is provided "as-is", and does **not** store or track user data. See below for more:
 📄 [View Terms of Service](./terms.md)  
+
 🔐 [View Privacy Policy](./privacy.md)
 
 ---
