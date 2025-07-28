@@ -48,4 +48,4 @@ The bot is provided "as-is", and does **not** store or track user data. See belo
 
 ---
 
-🎉 Want help customizing or deploying the bot? Just ask!
+🎉 Want help customizing or deploying the bot? Just ask!(contact me on ds landroyer)
