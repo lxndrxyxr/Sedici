@@ -31,10 +31,8 @@ A lightweight Discord bot that transforms text into speech using Google TTS! Jus
 ## 📜 Terms of Service & Privacy Policy
 
 The bot is provided "as-is", and does **not** store or track user data. See below for more:
-
-- [Terms of Service]((https://github.com/lxndrxyxr/Sedici/blob/main/terms.md))  
-- [Privacy Policy]((https://github.com/lxndrxyxr/Sedici/blob/main/privacy.md))
-
+📄 [View Terms of Service](./terms.md)  
+🔐 [View Privacy Policy](./privacy.md)
 
 ---
 
