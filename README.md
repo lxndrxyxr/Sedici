@@ -35,7 +35,6 @@ The bot is provided "as-is", and does **not** store or track user data. See belo
 - [Terms of Service](./terms.md)  
 - [Privacy Policy](./privacy.md)
 
-> *(Replace `#` with the actual URLs once published online)*
 
 ---
 
